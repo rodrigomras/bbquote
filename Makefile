@@ -1,3 +1,5 @@
+HEROKU_EMAIL_ADDRESS = rodrigomras@gmail.com
+
 # ----------------------------------
 #          INSTALL & TEST
 # ----------------------------------
