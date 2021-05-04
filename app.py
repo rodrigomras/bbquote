@@ -4,4 +4,6 @@ from bbquote.quote import get_quote
 
 quote, author = get_quote()  # assuming the function returns an author and a quote
 
-f"*{quote}* \n>{author}"
+"this is my quite:"
+
+st.write(f"*{quote}* \n>{author}")
